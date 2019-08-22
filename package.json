@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": ""
+    "version": "3.9.0"
   },
   "dependencies": {
     "hexo": "^3.9.0",
@@ -17,6 +17,7 @@
     "hexo-server": "^0.3.3"
   },
   "scripts": {
+    "start": "hexo s",
     "build": "hexo deploy"
   }
 }
