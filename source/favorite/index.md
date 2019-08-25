@@ -1,12 +1,6 @@
----
-title: VIDEO
-date: 2015-10-26 11:03:29
-type: "favorite"
-comments: false
----
-
 <p></p>
 <center>
+<p style="font-size: 30px;color: #020;">Favorite</p>
 <p style="font-size: 20px;color: #020;">记录一下看过的书、电影、动画以及通关的游戏。</p>
 </center>
 

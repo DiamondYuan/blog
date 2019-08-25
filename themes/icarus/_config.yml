@@ -27,6 +27,9 @@ navbar:
   menu:
     Home: /
     Archives: /archives
+    Books: /books
+    Favorite: /favorite
+    Game: /game
     Categories: /categories
     Tags: /tags
 # Footer section link settings
@@ -35,13 +38,13 @@ footer:
   links:
     Creative Commons:
       icon: fab fa-creative-commons
-      url: "https://creativecommons.org/"
+      url: 'https://creativecommons.org/'
     Attribution 4.0 International:
       icon: fab fa-creative-commons-by
-      url: "https://creativecommons.org/licenses/by/4.0/"
+      url: 'https://creativecommons.org/licenses/by/4.0/'
     Download on GitHub:
       icon: fab fa-github
-      url: "https://github.com/ppoffice/hexo-theme-icarus"
+      url: 'https://github.com/ppoffice/hexo-theme-icarus'
 # Article display settings
 article:
   # Code highlight theme
@@ -91,12 +94,12 @@ widgets:
     # Whether to show avatar image rounded or square
     avatar_rounded: false
     # Path or URL for the follow button
-    follow_link: "https://github.com/DiamondYuan"
+    follow_link: 'https://github.com/DiamondYuan'
     # Links to be shown on the bottom of the profile widget
     social_links:
       Github:
         icon: fab fa-github
-        url: "https://github.com/DiamondYuan"
+        url: 'https://github.com/DiamondYuan'
   - # Widget name
     type: toc
     # Where should the widget be placed, left or right

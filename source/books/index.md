@@ -1,17 +1,10 @@
----
-title: BOOKS
-date: 2017-8-25 11:03:29
-type: "BOOKS"
-comments: false
----
-
 <p></p>
 <center>
+<p style="font-size: 30px;color: #020;">Books</p>
 <p style="font-size: 20px;color: #020;">记录一下看过的书、电影、动画以及通关的游戏。</p>
 </center>
 
 {% stream %}
-
 
 {% figure https://ws2.sinaimg.cn/large/006tNc79gy1fp1syjd7coj308c0cc3ys.jpg 图解HTTP %}
 {% figure https://ws1.sinaimg.cn/large/006tNc79gy1fp1t0zgawhj308i0c3dgd.jpg 湖畔 %}

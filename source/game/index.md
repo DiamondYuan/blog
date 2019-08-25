@@ -1,20 +1,9 @@
----
-title: Game
-date: 2017-08-25 11:48:29
-type: "favorite"
-comments: false
----
-
 <p></p>
 <center>
+<p style="font-size: 30px;color: #020;">Game</p>
 <p style="font-size: 20px;color: #020;">记录一下看过的书、电影、动画以及通关的游戏。</p>
+<img src="https://ws1.sinaimg.cn/large/006tNc79gy1fiwf8l1aefj30dc03cwf9.jpg">
 </center>
-
-
-
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fiwf8l1aefj30dc03cwf9.jpg)
-
-
 
 {% stream %}
 
