@@ -32,7 +32,7 @@ hexo.extend.tag.register(
       '    padding:3%;',
       '    padding-bottom:10px;',
       '    display:inline-block;',
-      '    width:25%',
+      '    width:28%',
       '  }',
       '  div.hexo-img-stream figure img {',
       '    border-bottom:1px solid #ccc;',

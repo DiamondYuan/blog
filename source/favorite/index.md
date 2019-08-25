@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-08-25-%E7%94%B5%E8%84%91%E7%BA%BF%E5%9C%88.jpg 电脑线圈 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-04-04-%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%A6%E9%99%A23.jpg [我的英雄学院 第3季](./my_hero.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-03-02-%E5%85%B3%E4%BA%8E%E6%88%91%E8%BD%AC%E7%94%9F%E5%8F%98%E6%88%90%E5%8F%B2%E8%8E%B1%E5%A7%86%E8%BF%99%E6%A1%A3%E4%BA%8B.jpg [关于我转生变成史莱姆这档事](/favorite/that_time_i_got_reincarnated_as_a_slime.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-03-27-%E9%83%BD%E6%8C%BA%E5%A5%BD%20.jpg [都挺好](/favorite/all_is_well.html) %}
