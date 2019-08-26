@@ -6,7 +6,7 @@
 </center>
 
 {% stream %}
-
+{% figure https://blog-staticfile.diamondyuan.com/2019-08-26-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.jpg 明日方舟 %}
 {% figure https://ws4.sinaimg.cn/large/006tNc79ly1flxq7ohlkrj30g30q10zf.jpg super mario </br>odyssey %}
 {% figure https://ws2.sinaimg.cn/large/006tKfTcgy1fjw9opev1ej30ar09lmxk.jpg [塞尔达传说</br>梦见岛DX]() %}
 {% figure https://ws3.sinaimg.cn/large/006tKfTcgy1fjw9ssi5qdj30ak0dcjru.jpg [神秘海域4DLC</br>失落的遗产](/game/uncharted.html) %}
