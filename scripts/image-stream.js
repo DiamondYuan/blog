@@ -14,7 +14,7 @@ if (hexo.config.image_stream) {
 
 hexo.extend.tag.register(
   'stream',
-  function(args, content) {
+  function (args, content) {
     return [
       `<div class="hexo-img-stream">`,
       `<style type="text/css">`,
@@ -28,11 +28,11 @@ hexo.extend.tag.register(
       '  div.hexo-img-stream figure {',
       '    background:#fefefe;',
       '    box-shadow:0 1px 2px rgba(34,25,25,0.4);',
-      '    margin:0 0.05% 3%;',
-      '    padding:3%;',
+      '    margin:0 1.00% 3%;',
+      '    padding:2%;',
       '    padding-bottom:10px;',
       '    display:inline-block;',
-      '    width:28%',
+      '    width:30%',
       '  }',
       '  div.hexo-img-stream figure img {',
       '    border-bottom:1px solid #ccc;',
@@ -76,7 +76,7 @@ hexo.extend.tag.register(
   { ends: true },
 );
 
-hexo.extend.tag.register('figure', function(args) {
+hexo.extend.tag.register('figure', function (args) {
   var imgUrl = args.shift();
   var title = args.join(' ');
   var placeholder = config['img_placeholder'];

@@ -16,10 +16,22 @@ module.exports = function (hexo) {
         return widgets.some(widget => widget.hasOwnProperty('type') && widget.type === type);
     });
 
+    hexo.extend.helper.register('is_hide_right_widgets', function () {
+        const pathDisableRightWidgets = hexo.extend.helper.get('get_config').bind(this)('disable-right-widgets').map(o => o.path);
+        if (pathDisableRightWidgets.some(p => hexo.extend.helper.get('is_current').bind(this)(p))) {
+            return true
+        }
+        return false;
+    });
+
     hexo.extend.helper.register('get_widgets', function (position) {
         const hasWidgets = hexo.extend.helper.get('has_config').bind(this)('widgets');
         if (!hasWidgets) {
             return [];
+        }
+        const is_hide_right_widgets = hexo.extend.helper.get('is_hide_right_widgets').bind(this)
+        if (position === 'right' && is_hide_right_widgets()) {
+            return []
         }
         const widgets = hexo.extend.helper.get('get_config').bind(this)('widgets');
         return widgets.filter(widget => widget.hasOwnProperty('position') && widget.position === position);
@@ -27,6 +39,10 @@ module.exports = function (hexo) {
 
     hexo.extend.helper.register('has_column', function (position) {
         const getWidgets = hexo.extend.helper.get('get_widgets').bind(this);
+        const is_hide_right_widgets = hexo.extend.helper.get('is_hide_right_widgets').bind(this)
+        if (position === 'right' && is_hide_right_widgets()) {
+            return true;
+        }
         return getWidgets(position).length > 0;
     });
 

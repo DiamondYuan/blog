@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html <%- has_config('language') ? ' lang="' + get_config('language').substring(0, 2) + '"' : '' %>>
+
 <head>
     <%- partial('common/head') %>
 </head>
+
 <body class="is-<%= column_count() %>-column">
     <%- partial('common/navbar', { page }) %>
     <% function main_column_class() {
+        if(is_hide_right_widgets()){
+            return 'is-8-tablet is-8-desktop is-9-widescreen';
+        }
         switch (column_count()) {
             case 1:
                 return 'is-12';
@@ -32,4 +37,5 @@
     <%- partial('search/' + get_config('search.type')) %>
     <% } %>
 </body>
+
 </html>

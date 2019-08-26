@@ -173,3 +173,8 @@ providers:
   fontcdn: google
   # Name or URL of the webfont Icon CDN provider
   iconcdn: fontawesome
+disable-right-widgets:
+  - path: /books
+  - path: /favorite
+  - path: /game
+
