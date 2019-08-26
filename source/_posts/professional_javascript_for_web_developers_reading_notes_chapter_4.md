@@ -6,6 +6,7 @@ tags:
   - JavaScript 高级程序设计
 categories:
   - 读书笔记
+thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ---
 
 # 第 4 章 变量、作用域和内存问题

@@ -8,6 +8,7 @@ tags:
   - JavaScript 高级程序设计
 categories:
   - 读书笔记
+thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ---
 
 # 第 5 章 引用类型
