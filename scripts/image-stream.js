@@ -88,7 +88,7 @@ hexo.extend.tag.register('figure', function (args) {
 
   return [
     '<figure>',
-    `  <img class="hexo-image-steam-lazy nofancy" src="${placeholder}" data-original="${imgUrl}" />`,
+    `  <img class="hexo-image-steam-lazy" src="${placeholder}" data-original="${imgUrl}" />`,
     `  <noscript><img src="${imgUrl}"/></noscript>`,
     `  <figcaption> ${content} </figcaption>`,
     '</figure>',
