@@ -13,6 +13,8 @@ thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 
 完整的 Javascript 实现应该由三部分组成 `ECMAScript` `DOM` `BOM`。
 
+<!-- more -->
+
 ## 1.2.1 ECMAScript
 
 ECMAScript 和浏览器没有依赖关系，浏览器只是 ECMAScript 可能的宿主环境之一。宿主环境不仅提供基本的 ECMAScript 实现，同时也会提供该语言的扩展,以便语言与环境之间对接交互。而这些扩展——如 DOM，则利用 ECMAScript 的核心类型和语法提供更多具体功能。

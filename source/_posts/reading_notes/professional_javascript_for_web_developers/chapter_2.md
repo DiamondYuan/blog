@@ -30,6 +30,8 @@ thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 </script>
 ```
 
+<!-- more -->
+
 因为按照解析嵌入式代码的规则,当浏览器遇到字符串`</script>`时,就会认为那是结束的 `<script>`标签。可以通过把这个字符串分隔为两部分可以解决这个问题。
 
 ```js

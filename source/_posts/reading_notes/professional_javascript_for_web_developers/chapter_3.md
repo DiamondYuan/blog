@@ -17,6 +17,8 @@ thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 
 ECMAScript 中的一切都区分大小写。
 
+<!-- more -->
+
 ### 3.1.2 标识符
 
 所谓标识符,就是指变量、函数、属性的名字,或者函数的参数。标识符可以是按照下列格式规则组合起来的一或多个字符:
