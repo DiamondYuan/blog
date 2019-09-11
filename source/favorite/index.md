@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-09-11-%E9%87%91%E8%89%B2%E6%A2%A6%E4%B9%A1.jpg [金色梦乡](/favorite/golden_slumber.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-08-26-%E7%99%BD%E8%9B%87%E7%BC%98%E8%B5%B7.jpg 白蛇缘起 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-08-25-%E7%94%B5%E8%84%91%E7%BA%BF%E5%9C%88.jpg 电脑线圈 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-04-04-%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%A6%E9%99%A23.jpg [我的英雄学院 第3季](./my_hero.html) %}

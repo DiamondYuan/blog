@@ -5,7 +5,7 @@
 </center>
 
 {% stream %}
-
+{% figure https://blog-staticfile.diamondyuan.com/2019-09-11-%E9%87%91%E8%89%B2%E6%A2%A6%E4%B9%A1-%E4%B9%A6%E7%B1%8D.jpg [金色梦乡](/favorite/golden_slumber.html) %}
 {% figure https://ws2.sinaimg.cn/large/006tNc79gy1fp1syjd7coj308c0cc3ys.jpg 图解HTTP %}
 {% figure https://ws1.sinaimg.cn/large/006tNc79gy1fp1t0zgawhj308i0c3dgd.jpg 湖畔 %}
 {% figure http://ww1.sinaimg.cn/large/661b8d02gy1fmclu4yqxxj208i0c3dg1.jpg [刀锋](/books/the_razors_edge.html) %}
