@@ -8,6 +8,7 @@
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-11-%E9%87%91%E8%89%B2%E6%A2%A6%E4%B9%A1.jpg [金色梦乡](/favorite/golden_slumber.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-08-26-%E7%99%BD%E8%9B%87%E7%BC%98%E8%B5%B7.jpg 白蛇缘起 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-12-%E7%A5%88%E7%A5%B7%E8%90%BD%E5%B9%95%E6%97%B6.jpg [祈祷落幕时](/favorite/the_crimes_that_bind.html) %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-09-13-%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C-%E7%AC%AC%E4%B8%80%E5%AD%A3.jpg [冰与火之歌 第一季](/favorite/game_of_thrones/s1.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-08-25-%E7%94%B5%E8%84%91%E7%BA%BF%E5%9C%88.jpg 电脑线圈 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-04-04-%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%A6%E9%99%A23.jpg [我的英雄学院 第3季](./my_hero.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-03-02-%E5%85%B3%E4%BA%8E%E6%88%91%E8%BD%AC%E7%94%9F%E5%8F%98%E6%88%90%E5%8F%B2%E8%8E%B1%E5%A7%86%E8%BF%99%E6%A1%A3%E4%BA%8B.jpg [关于我转生变成史莱姆这档事](/favorite/that_time_i_got_reincarnated_as_a_slime.html) %}
