@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-09-21-%E6%9E%81%E9%99%90%E8%81%8C%E4%B8%9A.jpg 极限职业 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-11-%E9%87%91%E8%89%B2%E6%A2%A6%E4%B9%A1.jpg [金色梦乡](/favorite/golden_slumber.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-08-26-%E7%99%BD%E8%9B%87%E7%BC%98%E8%B5%B7.jpg 白蛇缘起 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-12-%E7%A5%88%E7%A5%B7%E8%90%BD%E5%B9%95%E6%97%B6.jpg [祈祷落幕时](/favorite/the_crimes_that_bind.html) %}
