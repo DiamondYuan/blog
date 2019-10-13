@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-10-13-%E9%9C%8D%E4%B9%B1%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85.jpg [霍乱时期的爱情](/books/El_Amor_En_Los_Tiempos_Del_Colera.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-11-%E9%87%91%E8%89%B2%E6%A2%A6%E4%B9%A1-%E4%B9%A6%E7%B1%8D.jpg [金色梦乡](/favorite/golden_slumber.html) %}
 {% figure https://ws2.sinaimg.cn/large/006tNc79gy1fp1syjd7coj308c0cc3ys.jpg 图解HTTP %}
 {% figure https://ws1.sinaimg.cn/large/006tNc79gy1fp1t0zgawhj308i0c3dgd.jpg 湖畔 %}
