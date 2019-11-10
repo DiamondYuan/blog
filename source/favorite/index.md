@@ -5,7 +5,12 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E7%A1%85%E8%B0%B7%20%E7%AC%AC%E4%B8%80%E5%AD%A3.jpeg [硅谷 第一季]() %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E8%BE%89%E5%A4%9C%E5%A4%A7%E5%B0%8F%E5%A7%90%E6%83%B3%E8%AE%A9%E6%88%91%E5%91%8A%E7%99%BD.jpeg 辉夜大小姐想让我告白 %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E5%A4%A9%E6%B0%94%E4%B9%8B%E5%AD%90.jpeg [天气之子]() %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E7%88%B1%EF%BC%8C%E6%AD%BB%E4%BA%A1%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E7%AC%AC%E4%B8%80%E5%AD%A3.jpg [爱，死亡和机器人 第一季]() %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E8%87%B4%E5%91%BD%E5%A5%B3%E4%BA%BA.jpeg [致命女人]() %}
+{% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E8%88%AA%E6%B5%B7%E7%8E%8B%EF%BC%9A%E7%8B%82%E7%83%AD%E8%A1%8C%E5%8A%A8.jpeg [航海王：狂热行动]() %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83.jpeg 鬼灭之刃 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-21-%E6%9E%81%E9%99%90%E8%81%8C%E4%B8%9A.jpg 极限职业 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-09-11-%E9%87%91%E8%89%B2%E6%A2%A6%E4%B9%A1.jpg [金色梦乡](/favorite/golden_slumber.html) %}
