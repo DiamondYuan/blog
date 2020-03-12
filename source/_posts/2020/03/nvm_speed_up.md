@@ -6,8 +6,6 @@ tags:
   - zsh
 ---
 
-# zsh (nvm) 启动时间优化
-
 ### 这个是困扰了我好几年的问题。
 
 使用 `time zsh -i -c exit` 可以看到 zsh 的启动时间。
