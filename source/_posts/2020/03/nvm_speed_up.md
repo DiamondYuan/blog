@@ -6,10 +6,10 @@ tags:
   - zsh
 ---
 
-### 这个是困扰了我好几年的问题。
+> 这个是困扰了我好几年的问题。
 
 使用 `time zsh -i -c exit` 可以看到 zsh 的启动时间。
-本来都已经习惯了，今天突发奇想研究了一些，发现是 nvm 拖慢了我的 zsh。
+本来都已经习惯了，今天突发奇想研究了一下，发现是 nvm 拖慢了我的 zsh。
 
 ### 解决方案
 
@@ -41,4 +41,11 @@ function load_nvm() {
 async_start_worker nvm_worker -n
 async_register_callback nvm_worker load_nvm
 async_job nvm_worker sleep 0.1
+```
+
+### 效果
+
+```shell
+time zsh -i -c exit
+zsh -i -c exit  0.07s user 0.09s system 75% cpu 0.215 total
 ```
