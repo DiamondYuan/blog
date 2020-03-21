@@ -6,6 +6,7 @@
 
 {% stream %}
 {% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E4%B8%9C%E4%BA%AC%E5%A4%A7%E9%A5%AD%E5%BA%97.jpg [东京大饭店](2020/03/La_Grande_Maison_Tokyo.html)%}
+{% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E4%B8%AD%E4%BA%8C%E7%97%85%E4%B9%9F%E8%A6%81%E8%B0%88%E6%81%8B%E7%88%B1%20%E5%89%A7%E5%9C%BA%E7%89%88%20Take%20On%20Me.jpg 中二病也要谈恋爱剧场版 %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-11-23-%E5%86%B0%E9%9B%AA%E5%A5%87%E7%BC%982.jpg [冰雪奇缘 2](2019/11/frozen_2.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E7%A1%85%E8%B0%B7%20%E7%AC%AC%E4%B8%80%E5%AD%A3.jpeg [硅谷 第一季]() %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-11-10-%E8%BE%89%E5%A4%9C%E5%A4%A7%E5%B0%8F%E5%A7%90%E6%83%B3%E8%AE%A9%E6%88%91%E5%91%8A%E7%99%BD.jpeg 辉夜大小姐想让我告白 %}
