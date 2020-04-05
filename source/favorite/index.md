@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2020-04-05-%E5%9B%A0%E4%B8%BA%E5%A4%AA%E6%80%95%E7%97%9B%E5%B0%B1%E5%85%A8%E7%82%B9%E9%98%B2%E5%BE%A1%E5%8A%9B%E4%BA%86.png 因为太怕痛就全点防御力了 %}
 {% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E4%B8%9C%E4%BA%AC%E5%A4%A7%E9%A5%AD%E5%BA%97.jpg [东京大饭店](/favorite/2020/03/La_Grande_Maison_Tokyo.html)%}
 {% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E5%AF%84%E7%94%9F%E8%99%AB.jpg [寄生虫](/favorite/2020/02/寄生虫.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E8%BF%99%E4%B8%AA%E5%8B%87%E8%80%85%E6%98%8E%E6%98%8E%E8%B6%85%E5%BC%BA%E5%8D%B4%E8%BF%87%E5%88%86%E6%85%8E%E9%87%8D.jpg [这个勇者明明超强却过分慎重](/favorite/2019/12/这个勇者明明超强却过分慎重.html) %}
