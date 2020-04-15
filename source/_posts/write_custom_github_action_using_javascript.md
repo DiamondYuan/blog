@@ -77,7 +77,7 @@ jobs:
 
 提交代码以后，我们就可以发现，~~成功~~（失败）了。
 
-![image.png](https://blog-staticfile.diamondyuan.com/2020-04-16-write_custom_github_action_using_javascript_01.png)
+![运行结果](https://blog-staticfile.diamondyuan.com/2020-04-16-write_custom_github_action_using_javascript_01.png)
 
 ### 解决问题
 
@@ -114,7 +114,7 @@ diff --git a/actions/release/action.yml b/actions/release/action.yml
 
 #### 4.成功运行
 
-![image.png](https://blog-staticfile.diamondyuan.com/2020-04-16-https-::blog-staticfile.diamondyuan.com:2020-04-16-write_custom_github_action_using_javascript_02.png)
+![运行成功](https://blog-staticfile.diamondyuan.com/2020-04-16-https-::blog-staticfile.diamondyuan.com:2020-04-16-write_custom_github_action_using_javascript_02.png)
 
 ### 参考文档
 
