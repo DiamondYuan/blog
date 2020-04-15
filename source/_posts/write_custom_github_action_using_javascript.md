@@ -3,8 +3,6 @@ title: "使用 JavaScript 编写自定义 Github Action"
 date: 2020-04-15 23:56:41
 ---
 
-# 使用 JavaScript 编写自定义 Github Action
-
 Github Action 有可以通过 JavaScript 和 docker 来编写。这篇文章讲的是如何使用 javascript 来编写 GitHub Action。
 为了方便，我编写的是项目内置的 GitHub action。
 
@@ -79,7 +77,7 @@ jobs:
 
 提交代码以后，我们就可以发现，~~成功~~（失败）了。
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/113971/1585735475834-79eea5ec-fb33-4136-b28e-72c44c1986b8.png#align=left&display=inline&height=597&name=image.png&originHeight=1194&originWidth=1954&size=314516&status=done&style=none&width=977)
+![image.png](https://blog-staticfile.diamondyuan.com/2020-04-16-write_custom_github_action_using_javascript_01.png)
 
 ### 解决问题
 
@@ -116,7 +114,7 @@ diff --git a/actions/release/action.yml b/actions/release/action.yml
 
 #### 4.成功运行
 
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/113971/1585736262801-015204ae-9f9c-48ff-a98c-caa5b86a42f1.png#align=left&display=inline&height=620&name=image.png&originHeight=1240&originWidth=1906&size=297003&status=done&style=none&width=953)
+![image.png](https://blog-staticfile.diamondyuan.com/2020-04-16-https-::blog-staticfile.diamondyuan.com:2020-04-16-write_custom_github_action_using_javascript_02.png)
 
 ### 参考文档
 
