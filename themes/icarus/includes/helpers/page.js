@@ -66,7 +66,6 @@ module.exports = function (hexo) {
 
     hexo.extend.helper.register('get_og_image', function (post) {
         const getConfig = hexo.extend.helper.get('get_config').bind(this);
-        const hasConfig = hexo.extend.helper.get('has_config').bind(this);
 
         const hasOGImage = hexo.extend.helper.get('has_og_image').bind(this)(post);
         const hasThumbnail = hexo.extend.helper.get('has_thumbnail').bind(this)(post);

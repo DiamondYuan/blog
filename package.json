@@ -12,12 +12,20 @@
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-stylus": "^0.3.3",
     "hexo-renderer-marked": "^1.0.1",
+    "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3"
   },
   "scripts": {
     "start": "hexo s",
     "build": "hexo deploy"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-react-jsx": "^7.9.4",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/register": "^7.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }

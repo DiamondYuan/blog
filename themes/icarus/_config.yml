@@ -7,7 +7,7 @@ meta:
 # Path or URL to RSS atom.xml
 rss:
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
-logo: https://avatars0.githubusercontent.com/u/9692408?s=460&v=4
+logo: https://blog-staticfile.diamondyuan.com/2020-04-16-avatar.jpeg
 # Open Graph metadata
 # https://hexo.io/docs/helpers.html#open-graph
 open_graph:
@@ -88,7 +88,7 @@ widgets:
     # Author's current location to be shown in the profile widget
     location: ShangHai
     # Path or URL to the avatar to be shown in the profile widget
-    avatar: https://avatars0.githubusercontent.com/u/9692408?s=460&v=4
+    avatar: https://blog-staticfile.diamondyuan.com/2020-04-16-avatar.jpeg
     # Email address for the Gravatar to be shown in the profile widget
     gravatar:
     # Whether to show avatar image rounded or square

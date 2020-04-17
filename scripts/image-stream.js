@@ -1,7 +1,7 @@
 'use strict';
 
 var config = {
-  img_placeholder: 'https://ws4.sinaimg.cn/large/e724cbefgw1etyppy7bgwg2001001017.gif',
+  img_placeholder: "https://via.placeholder.com/250x380.png",
 };
 
 if (hexo.config.image_stream) {
