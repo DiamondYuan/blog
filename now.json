@@ -1,1 +1,7 @@
-{ "name": "blog", "alias": ["blog.yfd.im"] }
+{
+    "name": "blog",
+    "alias": [
+        "blog.yfd.im",
+        "yfd.im"
+    ]
+}
