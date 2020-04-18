@@ -6,7 +6,6 @@
 
 {% stream %}
 {% react books/books.jsx %}
-{% figure https://ws2.sinaimg.cn/large/006tKfTcgy1fjuikggsqoj309a0dw3yr.jpg [家庭、私有制</br>和国家的起源](/books/the_origin_of_the_family_private_property_and_the_state.html) %}
 {% figure https://ws3.sinaimg.cn/large/006tKfTcgy1fjn0giccfyj30sj148n2j.jpg 声之形07 %}
 {% figure https://ws4.sinaimg.cn/large/006tKfTcgy1fjn0gefz2gj30si1480ye.jpg 声之形06 %}
 {% figure https://ws4.sinaimg.cn/large/006tKfTcgy1fjn0gca1s5j30si148dko.jpg 声之形05 %}

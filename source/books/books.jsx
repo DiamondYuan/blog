@@ -1,6 +1,8 @@
 import React from "react";
 import { renderToString } from "react-dom/server";
 
+const imageStyle = "imageMogr2/auto-orient/thumbnail/500x/blur/1x0/quality/75"
+
 // @ts-check
 
 /** @type {import('../type').Figure[]} */
@@ -13,7 +15,7 @@ const books = [
     cover:
       "https://blog-staticfile.diamondyuan.com/2019-10-13-%E9%9C%8D%E4%B9%B1%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85.jpg",
     name: "霍乱时期的爱情",
-    link: "./El_Amor_En_Los_Tiempos_Del_Colera.html",
+    link: "/books/El_Amor_En_Los_Tiempos_Del_Colera.html",
   },
   {
     cover:
@@ -57,6 +59,10 @@ const books = [
       "https://blog-staticfile.diamondyuan.com/2020-04-16-%E4%B8%87%E5%8E%86%E5%8D%81%E4%BA%94%E5%B9%B4.jpg",
     name: "万历十五年",
   },
+  {
+    cover: 'https://blog-staticfile.diamondyuan.com/2020-04-18-%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90.jpg',
+    name: "家庭、私有制和国家的起源"
+  }
 ];
 
 const Book = () => {
@@ -66,10 +72,10 @@ const Book = () => {
         <img
           src="https://via.placeholder.com/250x380.png"
           className="hexo-image-steam-lazy not-gallery-item"
-          data-original={o.cover}
+          data-original={`${o.cover}?${imageStyle}`}
         />
         <noscript>
-          <img src={o.cover} />
+          <img src={`${o.cover}?${imageStyle}`} />
         </noscript>
         <figcaption>
           <center>{o.name}</center>
