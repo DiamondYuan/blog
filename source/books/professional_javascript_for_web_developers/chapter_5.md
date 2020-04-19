@@ -2,12 +2,6 @@
 title: JavaScript 高级程序设计读书笔记 第 5 章 引用类型
 date: 2019-3-24 13:45:00
 toc: true
-more: true
-tags:
-  - JavaScript
-  - JavaScript 高级程序设计
-categories:
-  - 读书笔记
 thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ---
 
@@ -18,8 +12,6 @@ thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ```js
 var person = new Object();
 ```
-
-<!-- more -->
 
 ## 5.1 Object 类型
 

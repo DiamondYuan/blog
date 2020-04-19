@@ -1,11 +1,7 @@
 ---
 title: JavaScript 高级程序设计读书笔记 第 4 章 变量、作用域和内存问题
 date: 2019-3-24 13:43:00
-tags:
-  - JavaScript
-  - JavaScript 高级程序设计
-categories:
-  - 读书笔记
+toc: true
 thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ---
 

@@ -1,11 +1,7 @@
 ---
 title: JavaScript 高级程序设计读书笔记 第 1 章 JavaScript 简介
 date: 2018-12-27 16:28:00
-tags:
-  - JavaScript
-  - JavaScript 高级程序设计
-categories:
-  - 读书笔记
+toc: true
 thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ---
 

@@ -10,6 +10,7 @@ const books = [
   {
     cover: 'https://blog-staticfile.diamondyuan.com/2020-04-16-JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.jpg',
     name: 'JavaScript高级程序设计（第3版）',
+    link: '/books/professional_javascript_for_web_developers'
   },
   {
     cover:

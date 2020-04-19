@@ -1,11 +1,7 @@
 ---
 title: JavaScript 高级程序设计读书笔记 第 2 章 在HTML中使用 JavaScript
 date: 2018-12-27 17:51:00
-tags:
-  - JavaScript
-  - JavaScript 高级程序设计
-categories:
-  - 读书笔记
+toc: true
 thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 ---
 
