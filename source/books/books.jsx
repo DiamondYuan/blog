@@ -1,16 +1,22 @@
 import React from "react";
 import { renderToString } from "react-dom/server";
 
-const imageStyle = "imageMogr2/auto-orient/thumbnail/500x/blur/1x0/quality/75"
+const imageStyle = "imageMogr2/auto-orient/thumbnail/500x/blur/1x0/quality/75";
 
 // @ts-check
 
 /** @type {import('../type').Figure[]} */
 const books = [
   {
-    cover: 'https://blog-staticfile.diamondyuan.com/2020-04-16-JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.jpg',
-    name: 'JavaScript高级程序设计（第3版）',
-    link: '/books/professional_javascript_for_web_developers'
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-16-JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.jpg",
+    name: "JavaScript高级程序设计（第3版）",
+    link: "/books/professional_javascript_for_web_developers",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%85%A8%E7%90%83%E9%AB%98%E6%AD%A6.jpeg",
+    name: "全球高武",
   },
   {
     cover:
@@ -61,9 +67,45 @@ const books = [
     name: "万历十五年",
   },
   {
-    cover: 'https://blog-staticfile.diamondyuan.com/2020-04-18-%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90.jpg',
-    name: "家庭、私有制和国家的起源"
-  }
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-18-%E5%AE%B6%E5%BA%AD%E3%80%81%E7%A7%81%E6%9C%89%E5%88%B6%E5%92%8C%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B5%B7%E6%BA%90.jpg",
+    name: "家庭、私有制和国家的起源",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A207.jpg",
+    name: "声之形07",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A206.jpg",
+    name: "声之形06",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A205.jpg",
+    name: "声之形05",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A204.jpg",
+    name: "声之形04",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A203.jpg",
+    name: "声之形03",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A202.jpg",
+    name: "声之形02",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-04-20-%E5%A3%B0%E4%B9%8B%E5%BD%A201.jpg",
+    name: "声之形01",
+  },
 ];
 
 const Book = () => {

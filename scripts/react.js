@@ -2,8 +2,6 @@
 // @ts-check
 const path = require("path");
 
-
-
 function resolve(root) {
   return path.resolve(__dirname, "../source/", root[0]);
 }
