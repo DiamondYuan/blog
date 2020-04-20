@@ -121,7 +121,7 @@ const Book = () => {
           <img src={`${o.cover}?${imageStyle}`} />
         </noscript>
         <figcaption>
-          <center>{o.name}</center>
+          <center style={{ color: o.link ? "#3273dc" : "" }}>{o.name}</center>
         </figcaption>
       </figure>
     );
