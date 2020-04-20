@@ -17,6 +17,7 @@
     "hexo-server": "^0.3.3"
   },
   "scripts": {
+    "dev": "rm -rf public && yarn build && yarn start",
     "start": "hexo s",
     "build": "hexo deploy"
   },
