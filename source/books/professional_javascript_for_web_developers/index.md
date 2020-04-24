@@ -11,3 +11,4 @@ thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
 [第 6 章 面向对象的程序设计](/books/professional_javascript_for_web_developers/chapter_6.html)
 [第 7 章 函数表达式](/books/professional_javascript_for_web_developers/chapter_7.html)
 [第 8 章 BOM](/books/professional_javascript_for_web_developers/chapter_8.html)
+[# 第 9 章 客户端检测](/books/professional_javascript_for_web_developers/chapter_9.html)
