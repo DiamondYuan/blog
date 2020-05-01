@@ -8,6 +8,10 @@ const imageStyle = "imageMogr2/auto-orient/thumbnail/500x/blur/1x0/quality/75";
 /** @type {import('../type').Figure[]} */
 const books = [
   {
+    cover:"https://blog-staticfile.diamondyuan.com/2020-05-01-%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1.jpg",
+    name:'小狗钱钱',
+  },
+  {
     cover:
       "https://blog-staticfile.diamondyuan.com/2020-04-21-Refactoring%20UI.png",
     name: "Refactoring UI",
