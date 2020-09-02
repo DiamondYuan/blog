@@ -8,8 +8,14 @@ const imageStyle = "imageMogr2/auto-orient/thumbnail/500x/blur/1x0/quality/75";
 /** @type {import('../type').Figure[]} */
 const books = [
   {
-    cover:"https://blog-staticfile.diamondyuan.com/2020-05-01-%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1.jpg",
-    name:'小狗钱钱',
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-09-03-%E6%94%BE%E5%BC%80%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%B7%AB.jpeg",
+    name: "放开那个女巫",
+  },
+  {
+    cover:
+      "https://blog-staticfile.diamondyuan.com/2020-05-01-%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1.jpg",
+    name: "小狗钱钱",
   },
   {
     cover:
