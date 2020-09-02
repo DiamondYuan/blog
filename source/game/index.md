@@ -6,6 +6,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2020-09-03-AI_%E6%A2%A6%E5%A2%83%E6%A1%A3%E6%A1%88.jpg [AI 梦境档案](/game/2020/08/AI梦境档案/AI梦境档案.html) %}
 {% figure https://blog-staticfile.diamondyuan.com/2019-08-26-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F.jpg 明日方舟 %}
 {% figure https://ws4.sinaimg.cn/large/006tNc79ly1flxq7ohlkrj30g30q10zf.jpg super mario </br>odyssey %}
 {% figure https://ws2.sinaimg.cn/large/006tKfTcgy1fjw9opev1ej30ar09lmxk.jpg [塞尔达传说</br>梦见岛DX]() %}
