@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2020-09-02-%E8%BE%89%E5%A4%9C%E5%A4%A7%E5%B0%8F%E5%A7%90%E6%83%B3%E8%AE%A9%E6%88%91%E5%91%8A%E7%99%BD%EF%BC%9A%E5%A4%A9%E6%89%8D%E4%BB%AC%E7%9A%84%E6%81%8B%E7%88%B1%E5%A4%B4%E8%84%91%E6%88%98%20%E7%AC%AC%E4%BA%8C%E5%AD%A3.jpg [辉夜大小姐想让我告白 第二季](/) %}
 {% figure https://blog-staticfile.diamondyuan.com/2020-04-05-%E5%9B%A0%E4%B8%BA%E5%A4%AA%E6%80%95%E7%97%9B%E5%B0%B1%E5%85%A8%E7%82%B9%E9%98%B2%E5%BE%A1%E5%8A%9B%E4%BA%86.png 因为太怕痛就全点防御力了 %}
 {% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E4%B8%9C%E4%BA%AC%E5%A4%A7%E9%A5%AD%E5%BA%97.jpg [东京大饭店](/favorite/2020/03/La_Grande_Maison_Tokyo.html)%}
 {% figure https://blog-staticfile.diamondyuan.com/2020-03-21-%E5%AF%84%E7%94%9F%E8%99%AB.jpg [寄生虫](/favorite/2020/02/寄生虫.html) %}
