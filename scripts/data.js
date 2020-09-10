@@ -1,0 +1,1 @@
+export const Host = "blog-staticfile.diamondyuan.com"
