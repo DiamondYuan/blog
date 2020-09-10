@@ -5,7 +5,7 @@ tags:
 - VS Code
 categories:
 - 源码解析
-thumbnail: https://blog-staticfile.diamondyuan.com/2019-09-10-vscode-screenshot.png
+thumbnail: https://diamondyuan.oplinjie.cn/2019-09-10-vscode-screenshot.png
 ---
 
 

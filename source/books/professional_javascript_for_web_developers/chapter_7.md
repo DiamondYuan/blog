@@ -2,7 +2,7 @@
 title: JavaScript 高级程序设计读书笔记 第 7 章 函数表达式
 date: 20120-04-22 11:53
 toc: true
-thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
+thumbnail: https://diamondyuan.oplinjie.cn/2019-08-26-code.jpg
 ---
 
 # 第 7 章 函数表达式

@@ -1,6 +1,6 @@
 ---
 title: JavaScript 高级程序设计读书笔记
-thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
+thumbnail: https://diamondyuan.oplinjie.cn/2019-08-26-code.jpg
 ---
 
 [第 1 章 JavaScript 简介](/books/professional_javascript_for_web_developers/chapter_1.html)

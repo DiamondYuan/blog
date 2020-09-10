@@ -2,7 +2,7 @@
 title: JavaScript 高级程序设计读书笔记 第 6 章 面向对象的程序设计
 date: 2019-9-30 13:45:00
 toc: true
-thumbnail: https://blog-staticfile.diamondyuan.com/2019-08-26-code.jpg
+thumbnail: https://diamondyuan.oplinjie.cn/2019-08-26-code.jpg
 ---
 
 # 第 6 章 面向对象的程序设计

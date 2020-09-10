@@ -1,7 +1,9 @@
 'use strict';
 
+const { replaceHost } = require("../utils/image");
+
 var config = {
-  hostname: "blog-staticfile.diamondyuan.com",
+  hostname: "diamondyuan.oplinjie.cn",
   img_placeholder: "https://via.placeholder.com/250x380.png",
 };
 
@@ -86,13 +88,10 @@ hexo.extend.tag.register('figure', function (args) {
     .renderSync({ text: title, engine: 'markdown' })
     .replace(/<p>/, '<center>')
     .replace(/<.p>/, '</center>');
-
-  const url = new URL(imgUrl);
-  url.hostname = config.hostname;
   return [
     '<figure>',
-    `  <img class="hexo-image-steam-lazy" src="${placeholder}" data-original="${url.href}" />`,
-    `  <noscript><img src="${url.href}"/></noscript>`,
+    `  <img class="hexo-image-steam-lazy" src="${placeholder}" data-original="${replaceHost(imgUrl)}" />`,
+    `  <noscript><img src="${replaceHost(imgUrl)}"/></noscript>`,
     `  <figcaption> ${content} </figcaption>`,
     '</figure>',
   ].join('\n');
