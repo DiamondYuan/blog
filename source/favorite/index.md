@@ -5,6 +5,7 @@
 </center>
 
 {% stream %}
+{% figure https://blog-staticfile.diamondyuan.com/2020-09-14-Dark.jpg [暗黑 第一季](/favorite/2020/09/Dark.html) %}
 {% figure https://diamondyuan.oplinjie.cn/2020-09-07-%E6%B5%81%E6%B1%97%E5%90%A7%E5%81%A5%E8%BA%AB%E5%B0%91%E5%A5%B3.jpg [流汗吧健身少女](/favorite/2020/08/流汗吧健身少女.html) %}
 {% figure https://diamondyuan.oplinjie.cn/2020-09-03-%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1.jpeg [非正常死亡](/favorite/2020/07/非正常死亡.html) %}
 {% figure https://diamondyuan.oplinjie.cn/2020-09-02-%E8%BE%89%E5%A4%9C%E5%A4%A7%E5%B0%8F%E5%A7%90%E6%83%B3%E8%AE%A9%E6%88%91%E5%91%8A%E7%99%BD%EF%BC%9A%E5%A4%A9%E6%89%8D%E4%BB%AC%E7%9A%84%E6%81%8B%E7%88%B1%E5%A4%B4%E8%84%91%E6%88%98%20%E7%AC%AC%E4%BA%8C%E5%AD%A3.jpg [辉夜大小姐想让我告白 第二季](/favorite/2020/08/辉夜大小姐想让我告白_第二季.html) %}
