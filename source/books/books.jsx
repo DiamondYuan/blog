@@ -9,6 +9,10 @@ const imageStyle = "imageMogr2/auto-orient/thumbnail/500x/blur/1x0/quality/75";
 /** @type {import('../type').Figure[]} */
 const books = [
   {
+    cover: 'https://blog-staticfile.diamondyuan.com/2021-01-14-%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A.jpg',
+    name: '非暴力沟通'
+  },
+  {
     cover:
       "https://diamondyuan.oplinjie.cn/2020-09-03-%E6%94%BE%E5%BC%80%E9%82%A3%E4%B8%AA%E5%A5%B3%E5%B7%AB.jpeg",
     name: "放开那个女巫",
